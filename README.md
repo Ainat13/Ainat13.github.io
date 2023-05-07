@@ -2,10 +2,10 @@
 Creado con HTML y CSS3 en el bootcamp de Tecnolochicas Pro 
 
 ## Índice
-* [Introducción]()
-* [¿Qué se construyó?]()
-* [Objetivos del proyecto]()
-* [Link al Demo]()
+* [Introducción](https://github.com/Ainat13/Google-Clone/edit/main/README.md#%C3%ADndice)
+* [¿Qué se construyó?](https://github.com/Ainat13/Google-Clone/edit/main/README.md#qu%C3%A9-se-construy%C3%B3)
+* [Objetivos del proyecto](https://github.com/Ainat13/Google-Clone/edit/main/README.md#objetivos-del-proyecto)
+* [Link al Demo](https://github.com/Ainat13/Google-Clone/edit/main/README.md#link-al-demo)
 
 ***
 
@@ -31,6 +31,8 @@ Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3; así como 
 ***
 
 ## Link al demo
-Puedes encontrar mi proyecto terminado en el siguiente link: https://ainat13.github.io/Google-Clone/
-![image](https://user-images.githubusercontent.com/131726802/236700803-157d6331-040b-4659-9182-dcbc97925093.png)
+Puedes encontrar mi proyecto terminado en el siguiente enlace: [Clon de Google](https://ainat13.github.io/Google-Clone/)
+
+![Interfaz](https://user-images.githubusercontent.com/131726802/236701029-b4bc4652-89a9-4ba9-9f01-df0346225152.jpeg)
+
 
