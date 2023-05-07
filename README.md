@@ -31,4 +31,6 @@ Aprender a utilizar las etiquetas de HTML5 y las propiedades de CSS3; así como 
 ***
 
 ## Link al demo
-Puedes encontrar mi proyecto terminado en el siguiente link: 
+Puedes encontrar mi proyecto terminado en el siguiente link: https://ainat13.github.io/Google-Clone/
+![image](https://user-images.githubusercontent.com/131726802/236700803-157d6331-040b-4659-9182-dcbc97925093.png)
+
